@@ -1,3 +1,2 @@
 ### Hi there 👋
-<!-- MEDIUM:START --> 
-<!-- MEDIUM:END --> 
+<!-- MEDIUM:START --> <!-- MEDIUM:END -->
