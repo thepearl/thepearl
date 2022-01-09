@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working in [Wi-Mobi](http://www.wi-mobi.com/)
 
-- 🌱 I’m currently learning **React Native**
-
 - 🤝 Free Softwares user [since 2017](https://twitter.com/ClLfsm)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
