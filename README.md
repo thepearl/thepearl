@@ -31,11 +31,6 @@
 - [How Free Software spirits help us fight corona virus ?](https://medium.com/how-free-software-spirits-helps-us-fighting-corona/how-free-software-spirits-helps-us-fighting-corona-virus-2e9527f45e0?source=rss-eb5c8d177dab------2)
 <!-- MEDIUM:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepearl&show_icons=true&locale=en&layout=compact" alt="thepearl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepearl&show_icons=true&locale=en" alt="thepearl" /></p>
-
-
 
 
 
