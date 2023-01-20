@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghazi !</h1>
 <h3 align="center">A passionate frontend iOS developer</h3>
 
-- 🔭 I’m currently working in [DIGITSOLE](https://www.digitsolepro.com/)
-
 - 🤝 Free Softwares user [since 2017](https://twitter.com/ClLfsm)
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
