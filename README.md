@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghazi !</h1>
 <h3 align="center">A passionate frontend iOS developer</h3>
 
-- 🤝 Free Softwares user [since 2017](https://twitter.com/ClLfsm)
-
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
-
-- 💬 Ask me about **Anything !**
-
-- 📫 How to reach me **ghazi.tozri98@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tozrighazi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tozrighazi" height="30" width="40" /></a>
