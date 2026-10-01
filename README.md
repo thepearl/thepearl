@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ghazi-tozri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ghazi-tozri/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11650653/ghazi-tozri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11650653/ghazi-tozri" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/ghazitozri98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/ghazitozri98/" height="30" width="40" /></a>
 <a href="https://medium.com/@ghazi-tozri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ghazi-tozri" height="30" width="40" /></a>
 </p>
 
